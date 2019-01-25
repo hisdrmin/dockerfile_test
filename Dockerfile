@@ -1,3 +1,3 @@
 FROM jupyter/base-notebook
 
-LABEL maintainer "mdr"
+LABEL maintainer "mdr2"
